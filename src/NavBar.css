@@ -1,0 +1,16 @@
+.nav-link{
+    font-size: 15px;
+    color: black !important;
+    font-weight: 500;
+    padding: 20px !important;
+}
+.navbar-wrapper{
+    justify-content: flex-end;
+}
+
+@media only screen and (min-width: 800px){
+    .navbar{
+        width: 80%;
+        margin: auto;
+    }
+}
